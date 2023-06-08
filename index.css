@@ -1,0 +1,283 @@
+.bg{
+    background-color: blue;
+}
+
+
+.top-bg{
+    background-image: url("top/Shape\ 14.svg");
+    width: 100%;
+    height: 42px;
+    color: #fff;
+}
+
+.instagram{
+    width: 25px;
+height: 25px;
+border-radius: 13px;
+background-color: #00bccc;
+
+}
+
+.right{
+   
+    display: flex;
+    justify-content: end;
+    flex-direction: row;
+    align-items: center;
+}
+.image-setting{
+    padding-bottom: 5px;
+    padding-top:3px;
+    padding-right: 8px;
+    padding-left: 6px;
+}
+.connect{
+    font-size:12px ;
+}
+
+.mail{
+    
+    display: flex;
+    flex-direction: row;
+}
+
+.call{
+    font-size: 13px;
+letter-spacing: 1px;
+line-height: 42px;
+text-transform: uppercase;
+color: #cdfffc;
+font-weight: 300;
+font-family: "Montserrat";
+filter: drop-shadow(0px 2px 2px rgba(0,60,67,0.25));
+}
+.calll{
+    
+    display: flex;
+    flex-direction: row;
+}
+.waves{
+    display: flex;
+    
+    padding-right:90px;
+}
+.about-bg{
+    background-color: #fff;
+    width: 100%;
+    height: 100px;
+}
+.home-img{
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+}
+
+.about{
+    display: flex;
+    flex-direction: row;
+}
+.about1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.padding{
+    padding-left: 220px;
+    padding-top: 10px;
+}
+
+
+.tr{
+  
+    font-size: 32px;
+    line-height: 36px;
+    color: #282828;
+    font-family: "Museo Sans Cyrl";
+    text-align: center;
+}
+
+.arrow{
+    padding-right: 35px;
+    padding-top: 140px;
+}
+
+
+.celebrities{
+    background-color: #fff;
+    /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); */
+    width: 100%;
+    height:650px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    text-align: center;
+}
+
+/* .cel-img{
+    width: 178px;
+height: 178px;
+border-radius: 89px;
+background-color: #0c55a4;
+} */
+
+/* .cel-img1{
+    opacity: 0.000;
+width: 178px;
+height: 178px;
+border-radius: 89px;
+background-color: rgba(12,85,164,0);
+border: 10px solid ;
+} */
+
+/* .cel-bg{
+    background-image: url("celeb/1\ \(3\).svg");
+    width: 178px;
+    height: 178px;
+    border-radius: 500px;
+} */
+.cel-size{
+    width: 150px;
+    height: 150px;
+    border-radius: 550px;
+}
+
+.pic-align{
+ 
+    display: flex;
+    flex-direction: row;
+   padding-top: 50px;
+    justify-content: center;
+}
+
+.c{
+   
+    position:absolute;
+    padding-top: 80px;
+    text-align: center;
+    padding-left: 585px;
+}
+
+.cel-arrow{
+    padding-top: 80px;
+}
+
+.box{
+    position: absolute;
+    padding-top: 300px;
+   
+}
+.box1{
+    font-size: 14px;
+letter-spacing: 0px;
+line-height: 32px;
+text-transform: uppercase;
+color: #2a2a2a;
+font-weight: 400;
+font-family: "Muli";
+text-align: center;
+width: 520px;
+height: 49px;
+background-color: #ffffff;
+border: 3px solid rgba(0,202,222,0.5);
+}
+
+/* last adress */
+
+.ad-bg{
+    width: 1400px;
+    height: 245px;
+    background-color: #00bdd0;
+}
+
+.all-rights{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    font-size: 14px;
+letter-spacing: 0px;
+line-height: 18px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Muli";
+}
+
+.ad-bg1{
+    width: 1170px;
+height: 283px;
+border-radius: 5px;
+background-color: #004590;
+position: absolute;
+
+margin-top: 500px;
+}
+
+
+.dotted-line {
+    width: 1100px;
+    height: 2px;
+    border-bottom: 4px dotted  #edebe4;
+    padding-top: 10px;
+    margin-left: 37px;
+   
+  }
+ 
+ 
+
+.hr-size{
+width: 55px;
+ background-color:  yellow;
+position:relative;
+margin-right: 595px;
+
+  
+  }
+
+.a1{
+    font-size: 22px;
+    line-height: 30px;
+    color: #83beff;
+    font-weight: 600;
+    font-family: "Muli";
+}
+
+.a2{
+color: #ffffff;
+font-weight: 400;
+font-family: "Muli";
+
+
+}
+
+.a3{
+  
+height: 55px;
+font-size: 14px;
+line-height: 18px;
+color: #9ccbff;
+font-weight: 400;
+font-family: "Muli";
+}
+
+.p{
+    position: absolute;
+    margin-right: 200px;
+    padding-left: 30px;
+   
+}
+.p1{
+    position: absolute;
+    padding-top: 110px;
+    padding-right: 30px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.our{
+    font-size: 32px;
+line-height: 36px;
+color: #282828;
+font-family: "Museo Sans Cyrl";
+text-align: center;
+}
